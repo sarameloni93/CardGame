@@ -4,7 +4,7 @@
 The players take turns playing cards, trying to reduce each other’s health to 0.
 
  Overview of the game: 
-The game is played by two players, one human and one controlled by the. Each player starts the game with 20 health and all their cards in their deck. On a player’s turn, they 
+The game is played by two players, one human and one controlled by the computer. Each player starts the game with 20 health and all their cards in their deck. On a player’s turn, they: 
 -	Draw a card from the deck, adding it to their hand
 -	Play any number of cards from their hand, applying their effect and then adding them to their discard pile. They need to play enough cards to reduce the size of their hand to 5 or less. 
 
